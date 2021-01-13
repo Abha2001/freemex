@@ -125,3 +125,11 @@ Freemex uses the following technologies:
 + Pyhton(Django)
 
 If you want to contribute to this project, then have a look [here](https://github.com/lugnitdgp/freemex/blob/master/CONTRIBUTING.md)
+
+## Glimpses into the project
+
+![](core/static/gif/Freemex.gif)
+![](core/static/img/freemex1.jpg)
+![](core/static/img/freemex2.png)
+![](core/static/img/freemex3.png)
+![](core/static/img/freemex4.png)
